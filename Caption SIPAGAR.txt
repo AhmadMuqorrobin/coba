@@ -1,0 +1,11 @@
+Lahan penggaraman merupakan salah satu media untuk menunjang proses produksi garam. Data lahan penggaraman ini merupakan data sebaran lahan penggaraman aktif dari beberapa daerah penghasil garam rakyat di Kabupaten Sumenep
+
+Kelompok garam merupakan suatu kelompok yang memiliki tujuan untuk mengembangkan usaha dan produksi garam rakyat secara berkelanjutan. Data kelompok garam merupakan data sebaran kelompok garam aktif dari beberapa daerah penghasil garam rakyat di Kabupaten Sumenep
+
+Petambak garam adalah individual (perseorangan) yang melakukan proses pembuatan atau produksi garam rakyat. Data petambak garam merupakan data sebaran petambak garam aktif dari beberapa daerah penghasil garam rakyat di Kabupaten Sumenep
+
+Data Harga garam merupakan data acuan penentuan nilai jual beli hasil produksi garam yang telah ditetepkan oleh kementrian perindustrian dan perdagangan Indonesia
+
+Data Kualitas garam merupakan data acuan penentuan kualitas hasil produksi garam dengan nilai jual beli produk tersebut
+
+Hasil Produksi garam merupakan data hasil rekapan produksi garam rakyat di Kabupaten Sumenep
